@@ -1,0 +1,1 @@
+Thsi project aims at predictiong the house price by using ANN neural network
