@@ -1,0 +1,4 @@
+Flask
+Scikit-Learn==1.7.2
+Tensorflow==2.21.0
+keras==3.14.1
